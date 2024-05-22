@@ -1,0 +1,6 @@
+let texTpromt = prompt ('Имя')
+let familiyapromt = prompt ('Фамилия')
+let yoshpromt = +prompt ('сколько лет')
+let fanpromt = prompt ('любимый урок')
+let manzilpromt = prompt('где живешь')
+console.log(`Имя пользователя :${texTpromt}\n фамилия пользователя :${familiyapromt}\n сколько лет пользователя :${yoshpromt}\n любимый урок пользователя :${fanpromt}\n  адреас пользователя:${manzilpromt}`)
